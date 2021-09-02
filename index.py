@@ -1,0 +1,6 @@
+print("sima jestm nalepa i nie umiem nic.")
+print("dawaj liczby")
+liczba1 = int(input())
+print("dawaj drugom liczbe")
+liczba2 = int(input())
+print("wynik",liczba1 + liczba2)
